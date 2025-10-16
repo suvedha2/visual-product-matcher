@@ -1,0 +1,19 @@
+# Ignore the large Kaggle dataset folders
+myntra-products-dataset/
+apparel-images-dataset/
+flipkart-amazon-assorted-images/
+fashion-product-images-small/
+
+# Ignore the Python virtual environment
+backend/venv/
+
+# Ignore Node.js dependencies
+frontend/node_modules/
+frontend/.next/
+
+# Ignore Git files
+.git/
+.gitignore
+
+# Ignore Python cache
+backend/__pycache__/

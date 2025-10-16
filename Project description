@@ -1,0 +1,18 @@
+Project: Visual Product Matcher
+This project is a full-stack web application designed to demonstrate the power of Deep Learning (AI) in e-commerce and visual search. It allows a user to upload any image and instantly find the most visually similar products from a large, organized catalog.
+
+AI-Powered Visual Search: The core engine converts uploaded product images into vector embeddings and finds the closest matches in the database using cosine similarity.
+
+Memory Optimized: Successfully deployed the AI model by switching to the small-footprint MiniLM model to run within the 512MB RAM limit of the free hosting tier.
+
+Modern UX: Features drag-and-drop functionality, clear loading states, and a clean interface inspired by professional design templates.
+
+Decoupled Architecture: The frontend (React) and backend (FastAPI) communicate via a robust API, ensuring scalability.
+
+Frontend	React.js (Next.js)	Core UI framework for a fast, responsive interface.
+Styling	Pure CSS Modules	Component-scoped styling for the clean, professional, light-themed aesthetic.
+Backend	Python (FastAPI)	High-performance API to receive image files and process search requests.
+AI Model	Sentence Transformers (MiniLM-L6-v2)	The optimized model used for generating highly compressed, efficient image vector embeddings.
+Libraries	PyTorch, NumPy, SciPy	Libraries for model loading, tensor manipulation, and fast similarity calculation.
+
+

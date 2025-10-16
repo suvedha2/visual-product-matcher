@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "White_pants Apparel Item",
+    "category": "Apparel",
+    "price": 26.0,
+    "description": "A high-quality white_pants apparel item.",
+    "image_url": "product_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Black_shirt Apparel Item",
+    "category": "Apparel",
+    "price": 27.0,
+    "description": "A high-quality black_shirt apparel item.",
+    "image_url": "product_2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Black_dress Apparel Item",
+    "category": "Apparel",
+    "price": 28.0,
+    "description": "A high-quality black_dress apparel item.",
+    "image_url": "product_3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Blue_shirt Apparel Item",
+    "category": "Apparel",
+    "price": 29.0,
+    "description": "A high-quality blue_shirt apparel item.",
+    "image_url": "product_4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Blue_pants Apparel Item",
+    "category": "Apparel",
+    "price": 30.0,
+    "description": "A high-quality blue_pants apparel item.",
+    "image_url": "product_5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Blue_pants Apparel Item",
+    "category": "Apparel",
+    "price": 31.0,
+    "description": "A high-quality blue_pants apparel item.",
+    "image_url": "product_6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Black_shoes Apparel Item",
+    "category": "Apparel",
+    "price": 32.0,
+    "description": "A high-quality black_shoes apparel item.",
+    "image_url": "product_7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Black_shirt Apparel Item",
+    "category": "Apparel",
+    "price": 33.0,
+    "description": "A high-quality black_shirt apparel item.",
+    "image_url": "product_8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "White_shoes Apparel Item",
+    "category": "Apparel",
+    "price": 34.0,
+    "description": "A high-quality white_shoes apparel item.",
+    "image_url": "product_9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Red_pants Apparel Item",
+    "category": "Apparel",
+    "price": 35.0,
+    "description": "A high-quality red_pants apparel item.",
+    "image_url": "product_10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Black_shirt Apparel Item",
+    "category": "Apparel",
+    "price": 36.0,
+    "description": "A high-quality black_shirt apparel item.",
+    "image_url": "product_11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "White_dress Apparel Item",
+    "category": "Apparel",
+    "price": 37.0,
+    "description": "A high-quality white_dress apparel item.",
+    "image_url": "product_12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Green_pants Apparel Item",
+    "category": "Apparel",
+    "price": 38.0,
+    "description": "A high-quality green_pants apparel item.",
+    "image_url": "product_13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Black_pants Apparel Item",
+    "category": "Apparel",
+    "price": 39.0,
+    "description": "A high-quality black_pants apparel item.",
+    "image_url": "product_14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Black_pants Apparel Item",
+    "category": "Apparel",
+    "price": 40.0,
+    "description": "A high-quality black_pants apparel item.",
+    "image_url": "product_15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Black_shirt Apparel Item",
+    "category": "Apparel",
+    "price": 41.0,
+    "description": "A high-quality black_shirt apparel item.",
+    "image_url": "product_16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Blue_dress Apparel Item",
+    "category": "Apparel",
+    "price": 42.0,
+    "description": "A high-quality blue_dress apparel item.",
+    "image_url": "product_17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Blue_pants Apparel Item",
+    "category": "Apparel",
+    "price": 43.0,
+    "description": "A high-quality blue_pants apparel item.",
+    "image_url": "product_18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Red_dress Apparel Item",
+    "category": "Apparel",
+    "price": 44.0,
+    "description": "A high-quality red_dress apparel item.",
+    "image_url": "product_19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "White_dress Apparel Item",
+    "category": "Apparel",
+    "price": 45.0,
+    "description": "A high-quality white_dress apparel item.",
+    "image_url": "product_20.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Black_dress Apparel Item",
+    "category": "Apparel",
+    "price": 46.0,
+    "description": "A high-quality black_dress apparel item.",
+    "image_url": "product_21.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Red_shoes Apparel Item",
+    "category": "Apparel",
+    "price": 47.0,
+    "description": "A high-quality red_shoes apparel item.",
+    "image_url": "product_22.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Blue_dress Apparel Item",
+    "category": "Apparel",
+    "price": 48.0,
+    "description": "A high-quality blue_dress apparel item.",
+    "image_url": "product_23.jpg"
+  },
+  {
+    "id": 24,
+    "name": "White_pants Apparel Item",
+    "category": "Apparel",
+    "price": 49.0,
+    "description": "A high-quality white_pants apparel item.",
+    "image_url": "product_24.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Red_pants Apparel Item",
+    "category": "Apparel",
+    "price": 50.0,
+    "description": "A high-quality red_pants apparel item.",
+    "image_url": "product_25.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Green_pants Apparel Item",
+    "category": "Apparel",
+    "price": 51.0,
+    "description": "A high-quality green_pants apparel item.",
+    "image_url": "product_26.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Blue_dress Apparel Item",
+    "category": "Apparel",
+    "price": 52.0,
+    "description": "A high-quality blue_dress apparel item.",
+    "image_url": "product_27.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Green_shoes Apparel Item",
+    "category": "Apparel",
+    "price": 53.0,
+    "description": "A high-quality green_shoes apparel item.",
+    "image_url": "product_28.jpg"
+  },
+  {
+    "id": 29,
+    "name": "White_dress Apparel Item",
+    "category": "Apparel",
+    "price": 54.0,
+    "description": "A high-quality white_dress apparel item.",
+    "image_url": "product_29.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Blue_shirt Apparel Item",
+    "category": "Apparel",
+    "price": 55.0,
+    "description": "A high-quality blue_shirt apparel item.",
+    "image_url": "product_30.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Black_dress Apparel Item",
+    "category": "Apparel",
+    "price": 56.0,
+    "description": "A high-quality black_dress apparel item.",
+    "image_url": "product_31.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Black_shoes Apparel Item",
+    "category": "Apparel",
+    "price": 57.0,
+    "description": "A high-quality black_shoes apparel item.",
+    "image_url": "product_32.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Green_pants Apparel Item",
+    "category": "Apparel",
+    "price": 58.0,
+    "description": "A high-quality green_pants apparel item.",
+    "image_url": "product_33.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Blue_shoes Apparel Item",
+    "category": "Apparel",
+    "price": 59.0,
+    "description": "A high-quality blue_shoes apparel item.",
+    "image_url": "product_34.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Blue_shirt Apparel Item",
+    "category": "Apparel",
+    "price": 60.0,
+    "description": "A high-quality blue_shirt apparel item.",
+    "image_url": "product_35.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Black_shoes Apparel Item",
+    "category": "Apparel",
+    "price": 61.0,
+    "description": "A high-quality black_shoes apparel item.",
+    "image_url": "product_36.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Blue_dress Apparel Item",
+    "category": "Apparel",
+    "price": 62.0,
+    "description": "A high-quality blue_dress apparel item.",
+    "image_url": "product_37.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Blue_shoes Apparel Item",
+    "category": "Apparel",
+    "price": 63.0,
+    "description": "A high-quality blue_shoes apparel item.",
+    "image_url": "product_38.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Black_shirt Apparel Item",
+    "category": "Apparel",
+    "price": 64.0,
+    "description": "A high-quality black_shirt apparel item.",
+    "image_url": "product_39.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Black_shirt Apparel Item",
+    "category": "Apparel",
+    "price": 65.0,
+    "description": "A high-quality black_shirt apparel item.",
+    "image_url": "product_40.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Brown_pants Apparel Item",
+    "category": "Apparel",
+    "price": 66.0,
+    "description": "A high-quality brown_pants apparel item.",
+    "image_url": "product_41.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Black_shirt Apparel Item",
+    "category": "Apparel",
+    "price": 67.0,
+    "description": "A high-quality black_shirt apparel item.",
+    "image_url": "product_42.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Blue_shorts Apparel Item",
+    "category": "Apparel",
+    "price": 68.0,
+    "description": "A high-quality blue_shorts apparel item.",
+    "image_url": "product_43.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Blue_shoes Apparel Item",
+    "category": "Apparel",
+    "price": 69.0,
+    "description": "A high-quality blue_shoes apparel item.",
+    "image_url": "product_44.jpg"
+  },
+  {
+    "id": 45,
+    "name": "White_dress Apparel Item",
+    "category": "Apparel",
+    "price": 70.0,
+    "description": "A high-quality white_dress apparel item.",
+    "image_url": "product_45.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Blue_pants Apparel Item",
+    "category": "Apparel",
+    "price": 71.0,
+    "description": "A high-quality blue_pants apparel item.",
+    "image_url": "product_46.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Black_pants Apparel Item",
+    "category": "Apparel",
+    "price": 72.0,
+    "description": "A high-quality black_pants apparel item.",
+    "image_url": "product_47.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Green_shoes Apparel Item",
+    "category": "Apparel",
+    "price": 73.0,
+    "description": "A high-quality green_shoes apparel item.",
+    "image_url": "product_48.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Red_pants Apparel Item",
+    "category": "Apparel",
+    "price": 74.0,
+    "description": "A high-quality red_pants apparel item.",
+    "image_url": "product_49.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Black_shoes Apparel Item",
+    "category": "Apparel",
+    "price": 25.0,
+    "description": "A high-quality black_shoes apparel item.",
+    "image_url": "product_50.jpg"
+  }
+]

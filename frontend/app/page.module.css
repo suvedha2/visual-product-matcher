@@ -1,0 +1,97 @@
+/* app/page.module.css */
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  background-color:#FFFFF0 ;
+  border-radius: 1.5rem; /* 24px #e6d9a2*/
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.07);
+  padding: 2.5rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2.5rem;
+}
+
+@media (min-width: 1024px) { /* For larger screens */
+  .container {
+    grid-template-columns: 4fr 7fr;
+  }
+}
+
+.header {
+  grid-column: 1 / -1;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e6d9a2;
+}
+
+.title {
+  font-size: 1.7rem;
+  font-weight: 800;
+  color: #443627;
+}
+
+/* Styles for the Upload Panel */
+.uploadPanelContainer {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.dropzone {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 5px dashed #cbd5e0;
+  border-radius: 1rem;
+  padding: 2rem;
+  text-align: center;
+  color: #718096;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.dropzone:hover {
+  border-color: #4299e1;
+  background-color: #ebf8ff;
+}
+
+/* --- THE FIX FOR THE ENLARGED IMAGE --- */
+.previewContainer {
+  position: relative;     /* This is essential for the Image component */
+  width: 100%;
+  aspect-ratio: 1 / 1;  /* This makes it a perfect square and constrains the image */
+  border-radius: 1rem;
+  overflow: hidden;       /* This prevents the image from spilling out */
+  border: 1px solid #e2e8f0;
+}
+
+/* Styles for the Right Panel */
+.resultsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+  color: #a0aec0;
+}
+
+.placeholder p {
+  margin-top: 1rem;
+  font-size: 1rem;
+}

@@ -1,0 +1,50 @@
+/* components/ProductCard.module.css */
+.card {
+  border: 1px solid #e2e8f0;
+  border-radius: 1rem;
+  padding: 1rem;
+  background-color: white;
+  transition: all 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+}
+
+.imageContainer {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+/* --- FIX FOR FULL NAME --- */
+.title {
+  font-weight: 600;
+  color: #2d3748; /* Dark, visible text */
+  font-size: 1rem;
+  line-height: 1.4; /* Allows text to wrap to the next line */
+  margin-bottom: 0.5rem;
+}
+
+/* --- NEW STYLE FOR PRICE --- */
+.price {
+  font-weight: 700;
+  font-size: 1.25rem; /* 20px, makes it prominent */
+  color: #1a202c; /* Black text for importance */
+  margin-bottom: 0.75rem;
+}
+
+.score {
+  font-weight: 500;
+  color: #4a5568;
+  font-size: 0.875rem;
+}
+
+.score span {
+  font-weight: 700;
+  color: #3182ce;
+}
