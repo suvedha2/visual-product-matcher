@@ -7,11 +7,11 @@ The application features a clean, responsive user interface built with React.js 
 
 ## Application Screenshots
 ![Main Search Interface Screenshot](assets/sc1.PNG)
-![Product Results Grid](assets/sc5.PNG)
+![Product Results Grid](assets/s5.PNG)
 ![Product Results Grid](assets/sc4.PNG)
-![Product Results Grid](assets/sc8.PNG)
-![Mobile responsive](assets/sc6.PNG)
-![Mobile responsive](assets/sc7.PNG)
+![Product Results Grid](assets/s8.PNG)
+![Mobile responsive](assets/s6.PNG)
+![Mobile responsive](assets/s7.PNG)
 
 
 
